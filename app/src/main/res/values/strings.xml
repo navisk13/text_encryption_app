@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Navaneeth</string>
+    <string name="product_cipher">Product Cipher</string>
+    <string name="affine_cipher">Affine Cipher</string>
+    <string name="shift_cipher">Shift Cipher</string>
+    <string name="key">key</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="key_2">key 2</string>
+    <string name="key_1">key 1</string>
+    <string name="about_developer">About Developer</string>
+    <string name="NavaneethS">Navaneeth S</string>
+    <string name="degree">B.Tech CSE</string>
+    <string name="head1">Skills</string>
+    <string name="Java">Java</string>
+    <string name="Python">Python</string>
+    <string name="EthicalHacking">Ethical Hacking</string>
+    <string name="CCNA">CCNA</string>
+    <string name="WebDev">Web Development</string>
+    <string name="head2">Contact Me</string>
+    <string name="int1">Ethical Hacking</string>
+    <string name="int2">Article Writing</string>
+    <string name="head3">Areas of Interest</string>
+    <string name="email">navisk13@gmail.com</string>
+    <string name="phone">+91 8281776347</string>
+    <string name="heading">Text Encryptor</string>
+    <string name="share_text">Share Text</string>
+</resources>
